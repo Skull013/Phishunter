@@ -36,7 +36,7 @@ A powerful command-line tool for detecting phishing URLs using multiple detectio
 
 ### Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/PhishHunter.git
+git clone https://github.com/Skull013/PhishHunter.git
 cd PhishHunter
 ```
 
